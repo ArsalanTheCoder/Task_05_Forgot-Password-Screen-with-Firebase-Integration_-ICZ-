@@ -8,4 +8,5 @@ Overview
 
 ## Screenshots
 
-![Forgot Password Screen](assets/screenshots/forgot_password_screen.png)
+![Forgot Password Screen](![image](https://github.com/user-attachments/assets/24e176b3-dbbd-470a-b44d-e4caaa1e1a26)
+)
