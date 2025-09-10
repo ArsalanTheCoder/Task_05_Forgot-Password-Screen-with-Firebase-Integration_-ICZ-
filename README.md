@@ -4,7 +4,6 @@
 
 This Flutter project implements a fully functional **"Forgot Password"** screen integrated with **Firebase Authentication**.  
 
-
 ✅ Features:  
 - 📧 Users can reset their password by entering their email  
 - 🔐 Uses `sendPasswordResetEmail` method from Firebase  
